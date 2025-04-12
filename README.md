@@ -1,70 +1,128 @@
-# 👩‍🔬 Hiruni Anuththara Peiris  
+# 👩‍🔬 Hiruni Anuththara Peiris
+
 **Bio Systems Engineer | Research Enthusiast | Science Communicator**  
-_Bridging the gap between biology, engineering, and innovation_  
+_A curious mind blending engineering precision with biological wonder._
 
-📧 hirunipeiris07@gmail.com • 🌐 [LinkedIn](https://linkedin.com/in/hirunipeiris)
-
----
-
-## 👋 Hello World!
-
-Welcome to my corner of the internet where science meets innovation 🌱⚙️.  
-I’m **Hiruni**, a Bio Systems Engineering undergraduate with a passion for **bioprocesses, food technology**, and making the **invisible world of microorganisms and molecules speak volumes** through code, research, and creative problem solving.
+📧 hirunipeiris07@gmail.com | 📞 +94 704420887  
+🔗 [LinkedIn](https://linkedin.com/in/hirunipeiris)
 
 ---
 
-## 🚀 What I’m Currently Up To
+## 👋 About Me
 
-- 🎓 Wrapping up my **BSc in Bio Systems Engineering** with a GPA of 3.54/4.00  
-- 🔬 Assisting **cutting-edge research** at the University of Moratuwa & University of Kelaniya  
-- 🍹 Exploring natural food colorants & probiotic beverages as sustainable alternatives  
-- 📚 Publishing scientific research across international conferences and journals  
-- 💻 Learning and tinkering with **ASPEN PLUS**, **SolidWorks**, **R**, and **SPSS**  
+Hello! I’m **Hiruni**, a passionate Bio Systems Engineering undergraduate specializing in **Food & Bioprocess Engineering**. I thrive at the intersection of **engineering, biology, innovation, and storytelling**. From designing spice dryers to decoding marine pigments, my journey is driven by a love for **purposeful research, sustainable solutions, and community impact**.
 
 ---
 
-## 🧪 Highlight Projects
+## 🧪 Education Snapshot
 
-### 🌶️ Spice Dryer for SMEs
-Engineered a compact spice dryer outperforming traditional cabinet dryers with 12.89% higher moisture removal — **designed, fabricated, and tested from scratch.**
+🎓 **B.Sc. (Hons) in Bio Systems Engineering** – SLTC  
+• GPA: 3.54 / 4.00 | 150 Credits  
+• Valedictorian | Best Research | Gold Medal for Innovation
 
-### 🧫 Marine Biopigments
-Isolated bacteria from the Sri Lankan coast to produce **non-toxic food-grade pigments**, tested with Artemia salina, and proven for temperature & pH stability.  
-
-### 🍹 King Coconut Probiotic Drink
-Formulated a novel shelf-stable **functional beverage** targeting gut health — currently undergoing pre-commercialization.
+🎓 **Advanced Diploma in Analytical & Molecular Biology** – University of Kelaniya *(Ongoing)*  
+• LC-MS/MS, GC-MS, HPLC, ICP-MS, PCR, Molecular Docking, Protein Isolation & more.
 
 ---
 
-## 🏅 Awards & Honours
+## 🌟 Projects & Research Highlights
 
-🥇 Valedictorian | 🥇 Best Research Award | 🥇 Gold Medal for Innovation  
-🎤 1st Place - Trilingual Speech Contest  
-🏃‍♀️ 2nd Runner Up - 4x100m Relay (because brains & brawn can co-exist 😄)  
+### 🫒 1. Spice Dryer for SMEs – Final Year Design Project
+Ergonomic, efficient, and elegant: Designed & built a spice drying system using ASPEN PLUS, SolidWorks & Visio. Achieved **12.89% moisture reduction**, outperforming traditional dryers with better **uniformity, safety & usability**.
+
+### 🧪 2. Marine Bacterial Biopigments – Final Year Research Project  
+Isolated pigment-producing marine bacteria, extracted using diverse methods, and assessed **toxicity, thermal/pH stability**, and **antimicrobial activity**. Tools: UV-spectrometry, ELISA, SPSS, R Studio.
+
+### 💧 3. Effluent Treatment Plant (ETP) BFD  
+Created a zero-waste **block flow diagram** for A&E Lanka Pvt Ltd's ETP.
+
+### 🍇 4. Lawulu Juice Formulation – Laulü for Ü  
+Developed a minimally processed eggfruit drink as a healthier, flavorful substitute for sugary soft drinks.
+
+### 🧪 5. Algal-Based Biopolymer – Research Assistant @University of Kelaniya  
+Developing biopolymers from algae. Assisting MSc theses: research design, data analysis & manuscript writing.
+
+### 📓 6. Manual Database for Textile Fibers & Dyes (EduHub) – RA @University of Moratuwa  
+Literature review, lab work & publication-ready documentation for a textile fiber/dye database.
+
+### 🧪 7. Bachelors Thesis
+• Isolation, pigment extraction (4 methods)  
+• Toxicity tested on *Artemia salina*  
+• pH, temperature stability, UV spectra  
+• Antimicrobial screening on *S. aureus* & *C. albicans*
+
+### 🍵 8. R&D Intern @ 3H Innovations (SLINTEC)
+- Probiotic King Coconut Beverage – Prototype for commercialization
+- Natural Pigment Extraction – Patent-oriented
+- Hydrophobic Anthocyanin Project – Experimental work
+- Literature Review on "Diyabath" – Traditional functional food insights
+
+### 🌊 9. Design Intern @ Watercare Technologies
+- Aeration Tank & Sand Filter Models
+- SBR Design for Lankem and churches
+- EQ Pump Selection using performance curves and economic analysis
 
 ---
 
-## 📢 Outreach & Leadership
+## 📎 Publications
 
-- 🛰️ Founding member @SEDS SLTC — Satellite design & space tech  
-- 🎙️ Secretary @Rotaract SLTC — Orchestrating GPA boosters & social outreach  
-- 🐶 Volunteer @Embark — Improving the lives of stray animals with love and bookmarks  
-
----
-
-## 🔬 Publications Snapshot
-
-- 🧬 *In vitro cytotoxicity of marine Bacillus biopigments* — IET 2024 (Best Oral Presenter 🎤)  
-- 🍽️ *Crude biopigment as natural food colourant* — RESCON '24, PGIS  
-- 🏥 *Pediatric Anthropometry Study* — Sri Jayewardenepura General Hospital
-
-See more on my [LinkedIn](https://linkedin.com/in/hirunipeiris) or reach out via email to collaborate! 📬
+- **"In vitro cytotoxicity of marine Bacillus sp. biopigment"** – IET 2024 [Best Presenter]
+- **"Crude Biopigment for Food Colourant Use"** – RESCON '24, PGIS
+- **"Marine-derived Biopigment Stability Analysis"** – IFST Annual Research Session
+- **"Pediatric Anthropometry Study"** – Sri Jayewardenepura Hospital [Submitted to APJHS]
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🏆 Awards & Distinctions
 
-```plaintext
-🧪 Tools: ASPEN PLUS | SolidWorks | Visio | GraphPad Prism | SPSS | R  
-🌐 Languages: English | Sinhala | German | French  
-💻 Interests: Biotechnology | Data-Driven Research | Food Sustainability | Science Communication
+- 🥇 Valedictorian – SLTC Class of 2024 (1st of 700+)
+- 🥇 Best Research | 🥇 Gold Medal for Innovation
+- 🔊 1st Place – Trilingual Speech Contest (English Category)
+- 📚 Highest OL Marks in Sri Lanka (Chemistry & Biology – Cambridge)
+- 🎭 Trinity London Distinctions in Speech & Drama
+- 🏃‍♀️ Track & Field Medalist
+
+---
+
+## 🛠️ Tech Skills & Languages
+
+```yaml
+Software:
+  - ASPEN PLUS
+  - SolidWorks
+  - Visio
+  - SPSS
+  - R Studio
+  - GraphPad Prism
+
+Languages:
+  - English
+  - Sinhala
+  - German
+  - French
+```
+
+---
+
+## 🛋️ Leadership & Volunteering
+
+- ✨ **Secretary** – Rotaract SLTC (Projects: GPA Boost, TharkaSangrama, Little Heroes)
+- 🚀 **Founder & Secretary** – SEDS SLTC (Nano Satellite Design)
+- ⚡ **WIE @ IEEE SLTC** – Deputy Head (Circuito, Gisla, EntreVISTas)
+- 🦁 **Leo Club SLTC** – Secretary (Dhana Paramitha, MyLCI)
+- 🐶 **Embark** – Project Lead (Pawsome Lover’s campaign)
+- ✍️ **Quora** – Author (STEM, research, self-help)
+
+---
+
+## 🤝 Let's Collaborate!
+
+I’m always excited to connect with scientists, engineers, writers, and changemakers. Let’s co-create in:
+**Biotech | Food Engineering | Science Communication | Sustainability | EdTech**
+
+📧 Reach me: `hirunipeiris07@gmail.com`  
+💼 Open to collaborations, mentorship, and innovation talks.
+
+---
+
+> _“I’m not just studying science. I’m building stories where every bacterium, pigment, and pump has a voice.”_
