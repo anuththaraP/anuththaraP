@@ -16,9 +16,11 @@ Hello Everyone! Welcome to my corner of the internet where science meets enginee
 
 ⭐ Driven by curiosity and powered by self-learning, I am passionate about exploring new knowledge.
 
-⭐ Interested in contributing to research related to **Microbiology, Bioprocessing, Biotechnology, Food Chemistry, Plant Sciences, and Bioinformatics**. 
+⭐ Interested in contributing to research related to **Microbiology, Bioprocessing, Biotechnology, Food Chemistry, Plant Sciences, and 
+    Bioinformatics**. 
 
-⭐ From designing spice dryers to decoding marine pigments, my journey is driven by the love for **fundamental and applied research, sustainable solutions, and community impact**.
+⭐ From designing spice dryers to decoding marine pigments, my journey is driven by the love for **fundamental and applied research, 
+   sustainable solutions, and community impact**.
 
 ---
 
