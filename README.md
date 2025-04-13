@@ -1,6 +1,6 @@
 # 👩‍🔬 Hiruni Anuththara Peiris
 
-**Graduate Research Assistant | Bio Systems Engineer(Food & Bioprocess)**  
+**Graduate Research Assistant | Bio Systems Engineer (Food & Bioprocess)**  
 _A curious mind blending engineering principles with the biological sciences_
 
 📧 hirunipeiris07@gmail.com | 📞 +94 704420887  
