@@ -12,11 +12,11 @@ _A curious mind blending engineering principles with the biological sciences_
 
 Hello Everyone! Welcome to my corner of the internet where science meets engineering to serve humanity 🌱⚙️.  
 
-⭐ I’m an **aspiring early career researcher** in the field of **food & bioprocess engineering**.
+⭐ I’m an **Aspiring Early Career Researcher** in the field of **Food & Bioprocess Engineering**.
 
-⭐Driven by curiosity and powered by self-learning, I am passionate about exploring new knowledge.
+⭐ Driven by curiosity and powered by self-learning, I am passionate about exploring new knowledge.
 
-⭐ I’m particularly interested in contributing to research related to **Microbiology, Bioprocessing, Biotechnology, Food Chemistry, Plant Sciences, and Bioinformatics**. 
+⭐ Interested in contributing to research related to **Microbiology, Bioprocessing, Biotechnology, Food Chemistry, Plant Sciences, and Bioinformatics**. 
 
 ⭐ From designing spice dryers to decoding marine pigments, my journey is driven by the love for **fundamental and applied research, sustainable solutions, and community impact**.
 
